@@ -1,9 +1,0 @@
-# Selection of credit card details.
-creditcards:
-    - id: Visa
-      type: Visa
-      number: 4111111111111111
-      expiration:
-        month: "11"
-        year: "2023"
-      cvc: 111
